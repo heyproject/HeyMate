@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "373092207610",
+    "firebase_url": "https://heyproject-230121.firebaseio.com",
+    "project_id": "heyproject-230121",
+    "storage_bucket": "heyproject-230121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373092207610:android:e387f9fdc85598da",
+        "android_client_info": {
+          "package_name": "com.mycompany.heyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373092207610-34atgkfi0k3t65pa04dcqieqrlmvt82v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIrpjUDLVkiLFKiSVuuWUPm249FP5_rXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
